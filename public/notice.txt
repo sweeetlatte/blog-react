@@ -1,0 +1,16 @@
+edit page write, settings
+hr là thẻ gì?
+z-index?
+placeholder?
+.login {
+    height: calc(100vh - 50px); (??)
+    display: flex;
+    flex-direction: column;
+}
+
+font-family: 'Arsenal', sans-serif;
+font-family: 'Playfair Display', serif;
+
+#472A28 : dark color
+#71503A : middle color
+#C6AB80 : light color
